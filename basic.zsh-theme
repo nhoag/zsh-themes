@@ -1,3 +1,3 @@
-PROMPT='%{$FG[004]%}%/ %{$FG[002]%}%# %{$reset_color%}'
+PROMPT="%{$fg[blue]%}%/ %{$fg[green]%}%# %{$reset_color%}"
 
 export LSCOLORS="exfxcxdxbxbxbxbxbxbxbx"
